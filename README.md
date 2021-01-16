@@ -7,4 +7,5 @@
 - 💬 Ask me about except programming
 - 📫 How to reach me: [e-mail](jong12ems@gmail.com)
 - ⚡ My Blog: [click me](https://jongwonleee.github.io/)
+---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongwonleee)](https://github.com/anuraghazra/github-readme-stats)
