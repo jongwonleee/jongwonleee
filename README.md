@@ -13,6 +13,6 @@
 - 🤔 I’m looking for help with iOS, Mobile Engineering
 - 💬 Ask me about except programming
 - 📫 How to reach me: Call my name in Incheon anywhere
-- ⚡ My Blog: [click me](https://jongwonleee.github.com)  
+- ⚡ My Blog: [click me](https://jongwonleee.github.io)  
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongwonleee)](https://github.com/anuraghazra/github-readme-stats)
